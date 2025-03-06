@@ -2,7 +2,7 @@
 ## Projet : Kayak
 
 ## Problématique :
-l’équipe Kayak a découvert que 70% de leurs utilisateurs qui planifient un voyage aimeraient avoir plus d’informations sur la destination qu’ils vont 
+l’équipe Kayak a découvert que 70% de leurs utilisateurs qui planifient un voyage aimeraient avoir plus d’informations sur la destination ou ils vont 
 
 ## Objectif :
 Créer une application pour les utilisateurs Kayak de recommandation :
