@@ -1,24 +1,11 @@
-## Certification CDSD : Concepteur développeur en science des données
+# Bloc 6 : Direction de projets de gestion de données
 
-  ### Bloc 1 : Construction et alimentation d'une infrastructure de gestion de données
-  * Projet : Kayak
-    
-  ### Bloc 2 : Analyse exploratoire, descriptive et inférentielle de données
-  * Projet : Tinder 
-  * Projet : Steam
+## Projet : Traffic signs detection
 
-  ### Bloc 3 : Analyse prédictive de données structurées par l'intelligence artificielle
-  * Projet : Uber Pickup
-  * Projet : Conversion Rate Challenge
-  * Projet : Walmart sales
+## Problématique :
+Déploiement d’applications d’IA embarquées sur des supports légers et/ou autonomes
 
-  ### Bloc 4 : Analyse prédictive de données non-structurées par l'intelligence artificielle
-  * Projet : ATT Spam detector
-  
-  ### Bloc 5 : Industrialisation d'un algorithme d'apprentissage automatique et automatisation des processus de décision
-  * Projet : GetAround
-
-  ### Bloc 6 : Direction de projets de gestion de données
-  * Projet : Traffic signs detection
-
-
+## Objectif :
+Déploiement de modèle de détection de panneaux de limitation de vitesse sur un Raspberry pi avec 2 impléméntations prototypes :
+* Mini robot roulant
+* Tableau de bord de voiture
