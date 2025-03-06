@@ -28,4 +28,8 @@ modules détection de panneaux du boitier destiné au tdb de voiture
 (approche 2 - fait maison) modules de construction du modèle :
 (detection de forme géométrisue + cnn de decision "panneau ou non panneau" + cnn de classification des panneaux
 
+* ./tdb_bench
+
+modules et ihm streamlit de bench des modèles
+
 
