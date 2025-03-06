@@ -1,24 +1,12 @@
-## Certification CDSD : Concepteur développeur en science des données
+# Bloc 5 : Industrialisation d'un algorithme d'apprentissage automatique et automatisation des processus de décision
 
-  ### Bloc 1 : Construction et alimentation d'une infrastructure de gestion de données
-  * Projet : Kayak
-    
-  ### Bloc 2 : Analyse exploratoire, descriptive et inférentielle de données
-  * Projet : Tinder 
-  * Projet : Steam
+## Projet : GetAround
 
-  ### Bloc 3 : Analyse prédictive de données structurées par l'intelligence artificielle
-  * Projet : Uber Pickup
-  * Projet : Conversion Rate Challenge
-  * Projet : Walmart sales
+## Problématique :
+Getaround projette de :
+* mettre en place un délai minimum entre 2 locations pour mieux respecter le début des locations et réduire de potentielles insatisfactions clients.
+* Pouvoir suggérer des prix optimaux pour les propriétaires de voitures 
 
-  ### Bloc 4 : Analyse prédictive de données non-structurées par l'intelligence artificielle
-  * Projet : ATT Spam detector
-  
-  ### Bloc 5 : Industrialisation d'un algorithme d'apprentissage automatique et automatisation des processus de décision
-  * Projet : GetAround
-
-  ### Bloc 6 : Direction de projets de gestion de données
-  * Projet : Traffic signs detection
-
-
+## Objectif :
+* Mise eu point et déploiement d’un tableau pour aider Gettaround à prendre les bonnes décisions  pour optimiser la mise la mise en œuvre de ce délai minimun (impacts, cible, calibrage, …)
+* Mise au point d’un modèle de prédiction et déploiement d’une API de proposition de prix de location.
