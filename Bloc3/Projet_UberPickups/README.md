@@ -1,6 +1,6 @@
 # Bloc 3 : Analyse prédictive de données structurées par l'intelligence artificielle
 
-## Projet : Conversion rate challenge
+## Projet : Uber Pickups
 
 ## Problématique :
 L'équipe d'Uber aimerait avoir un moyen de recommandation de zones chaudes dans les grandes villes ou les conducteurs devraient se trouver pour répondre aux demandes des clients avec un minimum de délai d’attente.
