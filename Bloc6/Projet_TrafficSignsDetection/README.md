@@ -17,10 +17,11 @@ modules de pilotage avec détection de panneaux du mini robot
 * ./deploy_tdb_voiture
 modules détection de panneaux du boitier destiné au tdb de voiture
 
-* ./modele_cnn_custom
-modules de construction du modèle (approche 2) :
-** detection de forme géométrisue
-** cnn "fait maison" : de decision "panneau ou non panneau"
-** cnn "fait maison" : de classification des panneaux
+* ./modele_cnn_yolo
+(approche 1 - transfert learning) modules de construction du modèle dérivé de "Yolo"
 
-* ./modele_cnn_yolo           : modules de cinstruction du modèle dérivé de "Yolo" par Transfert Learning
+* ./modele_cnn_custom 
+(approche 2 - fait maison) modules de construction du modèle :
+(detection de forme géométrisue + cnn de decision "panneau ou non panneau" + cnn de classification des panneaux
+
+
