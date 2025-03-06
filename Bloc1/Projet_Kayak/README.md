@@ -1,4 +1,4 @@
-### Bloc 1 : Construction et alimentation d'une infrastructure de gestion de données
+# Bloc 1 : Construction et alimentation d'une infrastructure de gestion de données
 ## Projet : Kayak
 
 ## Problématique :
