@@ -1,4 +1,5 @@
-# Bloc 1 : Construction et alimentation d'une infrastructure de gestion de données
+# Bloc 1 : Analyse exploratoire, descriptive et inférentielle de données
+
 ## Projet : Tinder
 
 ## Problématique :
