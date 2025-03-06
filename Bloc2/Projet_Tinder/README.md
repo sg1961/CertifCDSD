@@ -1,4 +1,4 @@
-# Bloc 1 : Analyse exploratoire, descriptive et inférentielle de données
+# Bloc 2 : Analyse exploratoire, descriptive et inférentielle de données
 
 ## Projet : Tinder
 
