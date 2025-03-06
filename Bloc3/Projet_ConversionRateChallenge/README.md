@@ -1,4 +1,4 @@
-# Bloc 3 : Analyse prédictive de données structurées par l'intelligence artificiell
+# Bloc 3 : Analyse prédictive de données structurées par l'intelligence artificielle
 
 ## Projet : Conversion rate challenge
 
