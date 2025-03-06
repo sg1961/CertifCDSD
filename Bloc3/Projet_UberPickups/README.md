@@ -1,24 +1,10 @@
-## Certification CDSD : Concepteur développeur en science des données
+# Bloc 3 : Analyse prédictive de données structurées par l'intelligence artificielle
 
-  ### Bloc 1 : Construction et alimentation d'une infrastructure de gestion de données
-  * Projet : Kayak
-    
-  ### Bloc 2 : Analyse exploratoire, descriptive et inférentielle de données
-  * Projet : Tinder 
-  * Projet : Steam
+## Projet : Conversion rate challenge
 
-  ### Bloc 3 : Analyse prédictive de données structurées par l'intelligence artificielle
-  * Projet : Uber Pickup
-  * Projet : Conversion Rate Challenge
-  * Projet : Walmart sales
+## Problématique :
+L'équipe d'Uber aimerait avoir un moyen de recommandation de zones chaudes dans les grandes villes ou les conducteurs devraient se trouver pour répondre aux demandes des clients avec un minimum de délai d’attente.
 
-  ### Bloc 4 : Analyse prédictive de données non-structurées par l'intelligence artificielle
-  * Projet : ATT Spam detector
-  
-  ### Bloc 5 : Industrialisation d'un algorithme d'apprentissage automatique et automatisation des processus de décision
-  * Projet : GetAround
-
-  ### Bloc 6 : Direction de projets de gestion de données
-  * Projet : Traffic signs detection
-
-
+## Objectif :
+Créer un modèle pour trouver des zones chaudes
+Visualisez les résultats sur un tableau de bord
