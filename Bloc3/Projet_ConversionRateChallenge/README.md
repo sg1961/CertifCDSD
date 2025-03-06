@@ -1,24 +1,11 @@
-## Certification CDSD : Concepteur développeur en science des données
+# Bloc 3 : Analyse prédictive de données structurées par l'intelligence artificiell
 
-  ### Bloc 1 : Construction et alimentation d'une infrastructure de gestion de données
-  * Projet : Kayak
-    
-  ### Bloc 2 : Analyse exploratoire, descriptive et inférentielle de données
-  * Projet : Tinder 
-  * Projet : Steam
+## Projet : Conversion rate challenge
 
-  ### Bloc 3 : Analyse prédictive de données structurées par l'intelligence artificielle
-  * Projet : Uber Pickup
-  * Projet : Conversion Rate Challenge
-  * Projet : Walmart sales
+## Problématique :
+* Comprendre et expliquer le comportement des utilisateurs qui visitent un site web
+* Tenter de découvrir un nouveau levier d'action pour améliorer le taux de conversion du bulletin d'information 
 
-  ### Bloc 4 : Analyse prédictive de données non-structurées par l'intelligence artificielle
-  * Projet : ATT Spam detector
-  
-  ### Bloc 5 : Industrialisation d'un algorithme d'apprentissage automatique et automatisation des processus de décision
-  * Projet : GetAround
-
-  ### Bloc 6 : Direction de projets de gestion de données
-  * Projet : Traffic signs detection
-
-
+## Objectif :
+* Construire un modèle qui prédit si un utilisateur donné s'abonnera à la newsletter
+* Analyser les paramètres du modèle pour mettre en évidence les caractéristiques importantes pour expliquer le comportement des utilisateurs 
