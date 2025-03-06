@@ -12,15 +12,19 @@ Déploiement de modèle de détection de panneaux de limitation de vitesse sur u
 
 ## Implémentation :
 * ./deploiment_mini_robot
+
 modules de pilotage avec détection de panneaux du mini robot
 
 * ./deploy_tdb_voiture
+  
 modules détection de panneaux du boitier destiné au tdb de voiture
 
 * ./modele_cnn_yolo
+
 (approche 1 - transfert learning) modules de construction du modèle dérivé de "Yolo"
 
-* ./modele_cnn_custom 
+* ./modele_cnn_custom
+  
 (approche 2 - fait maison) modules de construction du modèle :
 (detection de forme géométrisue + cnn de decision "panneau ou non panneau" + cnn de classification des panneaux
 
