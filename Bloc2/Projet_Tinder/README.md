@@ -1,5 +1,5 @@
 # Bloc 1 : Construction et alimentation d'une infrastructure de gestion de données
-## Projet : Kayak
+## Projet : Tinder
 
 ## Problématique :
 * Tinder connaît une diminution du nombre de « match »
