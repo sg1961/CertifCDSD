@@ -23,4 +23,4 @@ modules de construction du modèle (approche 2) :
 ** cnn "fait maison" : de decision "panneau ou non panneau"
 ** cnn "fait maison" : de classification des panneaux
 
-*./modele_cnn_yolo           : modules de cinstruction du modèle dérivé de "Yolo" par Transfert Learning
+* ./modele_cnn_yolo           : modules de cinstruction du modèle dérivé de "Yolo" par Transfert Learning
