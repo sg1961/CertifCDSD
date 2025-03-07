@@ -9,3 +9,22 @@ Créer une application pour les utilisateurs Kayak de recommandation :
 * des meilleures destinations (au sens météo)
 * des meilleurs hôtels de ces destinations (au sens notation booking.com)
 
+## Implémentation :
+
+* kayak_get_geoloc_and_weather.ipynb
+Module de récupération (via APIs) des informations de localisation des villes et des informations méteo
+
+* kayak_get_hotels.py
+Module de récupération des informations sur les hotels (par sraping) depuis le site de booking.com
+
+* kayak_pull_data_to_s3.ipynb
+Module d'enregistrement des données brutes (villes, localisations et hotels) sur AWS : S3
+
+* kayak_pull_data_to_db.ipynb
+Module d'enregistrement des données structurées (villes et hotels) en base de données Postgres sur AWS
+
+* kayak_maps.ipynb
+Module de production des cartes des meilleurs destinations et des meilleurs hotels par destination
+
+* kayak_secret.py (non présent sur GitHub)
+Module contenant les informations pour acceder aux stockages AWS : S3 et DB Postgres
