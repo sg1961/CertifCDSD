@@ -15,7 +15,7 @@ Créer une application pour les utilisateurs Kayak de recommandation :
 
 Module de récupération (via APIs) des informations de localisation des villes et des informations méteo
 
-* kayak_get_hotels.py
+* kayak_get_hotels.py & kayak_run_scraping_hotels
 
 Module de récupération des informations sur les hotels (par sraping) depuis le site de booking.com
 
