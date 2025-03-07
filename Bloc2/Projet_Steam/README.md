@@ -11,7 +11,7 @@ Utiliser Databricks et PySpark pour mener une étude pour répondre à la pr
 Utiliser l'outil de visualisation de Databricks pour créer les visualisations
 
 
-## Impléméntation
+## Implémentation :
 
 * lien "databricks" vers le notebook et les restitutions
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3979573961011170/4308457732503927/6143944938730323/latest.html
