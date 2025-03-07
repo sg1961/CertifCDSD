@@ -8,3 +8,13 @@ L'équipe d'Uber aimerait avoir un moyen de recommandation de zones chaudes dans
 ## Objectif :
 * Créer un modèle pour trouver des zones chaudes
 * Visualisez les résultats sur un tableau de bord
+
+## Implémentation
+* UberPickups.ipynb
+
+Modules d'exploration des données
+Modules de "Clustering" K-means et DBSCAN
+
+*./uber_trip_data
+
+Données sources
