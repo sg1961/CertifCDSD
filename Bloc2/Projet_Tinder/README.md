@@ -13,7 +13,11 @@ Utilisez l'ensemble de données collectées pour comprendre ce qui pousse les ge
 ## Implémentation
 * Tinder.ipynb
 
-Module d'exploration des données et production des restitutions d'analyses
+Exploration des données
+
+Nettoyage et préparation des données
+
+Production des restitutions d'analyses
 
 * SpeedDatingData.csv
 
