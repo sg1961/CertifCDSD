@@ -18,15 +18,15 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 
 * Steam.ipynb (module exploitable sous Databricks)
 
-Exploration des données
+  Exploration des données
 
-Nettoyage et mise en formme des données
+  Nettoyage et mise en formme des données
 
-Production des restitutions d'analyses 
+  Production des restitutions d'analyses 
 
 * Steam.html
 
-Restitutions consultable en "offline" au format html
+  Restitutions consultable en "offline" au format html
 
 
 
