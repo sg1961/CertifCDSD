@@ -11,13 +11,6 @@ Déploiement de modèle de détection de panneaux de limitation de vitesse sur u
 * Tableau de bord de voiture
 
 ## Implémentation :
-* ./deploiment_mini_robot
-
-modules de pilotage avec détection de panneaux du mini robot
-
-* ./deploy_tdb_voiture
-  
-modules détection de panneaux du boitier destiné au tdb de voiture
 
 * ./modele_cnn_yolo
 
@@ -31,5 +24,14 @@ modules détection de panneaux du boitier destiné au tdb de voiture
 * ./tdb_bench
 
 modules et ihm streamlit de bench des modèles
+
+* ./deploiment_mini_robot
+
+Déploiment des modules de pilotage avec détection de panneaux du mini robot
+
+* ./deploy_tdb_voiture
+  
+Déploiement des modules détection de panneaux du boitier destiné au tdb de voiture
+
 
 
