@@ -10,4 +10,12 @@
 ## Objectif :
 Utilisez l'ensemble de données collectées pour comprendre ce qui pousse les gens à s'intéresser les uns aux autres et à avoir un deuxième rendez-vous ensemble
 
+## Implémentation
+* Tinder.ipynb
+
+Module d'exploration des données et production des restitutions d'analyses
+
+* SpeedDatingData.csv
+
+Données sources
 
