@@ -25,9 +25,9 @@ Exploration des données & Nettoyage et préparation des données
 
 Elaboration de modèle de proposition de prix : (modèle base de Régression linéaire, Ridge et Lasso)
 
-* getaround.pipeline_?_pipeline.pkl & getaround.pipeline_?_model.pkl
+* ./model
 
-Différentes variantes de modèles produits
+Différentes variantes de modèles testés
 
 * ./get_around_pricing_deploy
   
