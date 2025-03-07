@@ -8,3 +8,19 @@
 
 ## Objectif :
 Construire un modèle d'apprentissage automatique capable d'estimer les ventes hebdomadaires avec la meilleure précision possible 
+
+## Implémentation
+* Walmart_sales.ipynb
+
+Exploration des données
+
+Nettoyage et préparation des données
+
+Elaboration de modèle de prédictions des ventes 
+base Line : Regression linéaire
+Modèles régularisés : Ridge et Lasso
+
+
+* Walmart_Store_sales.csv
+
+Données sources
