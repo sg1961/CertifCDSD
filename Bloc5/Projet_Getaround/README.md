@@ -38,13 +38,17 @@ pipeline des différentes variantes de pipeline
 Différentes variantes de modèles
 
 * ./get_around_pricing_deploy
+  
 Déploiement d'API de publication des propositions de prix de courses Uber 
 
 * ./get_around_tdb_deploy
+  
 Déploiement de "tableau de bord - streallit" de publication d'nalyses des courses Uber 
 
-* get_around_delay_analysis.xlsx
+* get_around_delay_analysis.xls
+  
 Données sources - (courses Ubers)
 
 * get_around_pricing_project.csv
+  
 Données sources - (prix des courses Ubers)
