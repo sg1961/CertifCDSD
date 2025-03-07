@@ -31,4 +31,7 @@ Entrairement sur l'ensemble du dataset et export pour soumission au challenge
 meilleure approche retenue :
 - modele SVM
 - entrainement et prédictions séparés par pays puis consolidation
-- Calibrage du meilleur seuil "proba" pour un meilleur f1-score 
+- Calibrage du meilleur seuil "proba" pour un meilleur f1-score
+
+* conversion_data_train.csv : data labelisée pour entrainement
+* conversion_data_test.csv : data non labelisée pour sousmission des prédictions au challenge
