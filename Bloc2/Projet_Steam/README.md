@@ -26,7 +26,7 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 
 * Steam.html
 
-  Restitutions consultable en "offline" au format html
+  Notebook et Restitutions consultables en "offline" au format html
 
 
 
