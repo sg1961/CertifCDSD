@@ -12,9 +12,7 @@ L'équipe d'Uber aimerait avoir un moyen de recommandation de zones chaudes dans
 ## Implémentation
 * UberPickups.ipynb
 
-Modules d'exploration des données
-
-Modules de "Clustering" K-means et DBSCAN
+Modules d'exploration des données & de "Clustering" K-means et DBSCAN
 
 * ./uber_trip_data
 
