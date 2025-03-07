@@ -15,6 +15,6 @@ L'équipe d'Uber aimerait avoir un moyen de recommandation de zones chaudes dans
 Modules d'exploration des données
 Modules de "Clustering" K-means et DBSCAN
 
-*./uber_trip_data
+* ./uber_trip_data
 
 Données sources
