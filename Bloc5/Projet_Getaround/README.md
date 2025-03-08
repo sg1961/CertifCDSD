@@ -15,13 +15,13 @@ Getaround projette de :
 
 * get_around_delay_analysis.ipynb
 
-Exploration des données & nettoyage et préparation des données
+Exploration, nettoyage et préparation des données
 
-Production de restitutions d'analyses
+Production de restitutions d'analyses des impacts de mise en oeuvre de délai entre 2 locations
 
 * get_around_pricing_project.ipynb
 
-Exploration des données & Nettoyage et préparation des données
+Exploration, nettoyage et préparation des données
 
 Elaboration de modèle de proposition de prix : (modèle base de Régression linéaire, Ridge et Lasso)
 
