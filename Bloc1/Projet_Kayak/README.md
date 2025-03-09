@@ -8,7 +8,9 @@ Créer une application pour les utilisateurs Kayak de recommandation :
 * des meilleures destinations (au sens météo)
 * des meilleurs hôtels de ces destinations (au sens notation booking.com)
 
-## Présentation du projet : Bloc1_Kayak.pptx
+## Présentation du projet
+
+* Bloc1_Kayak.pptx
 
 ## Implémentation :
 
