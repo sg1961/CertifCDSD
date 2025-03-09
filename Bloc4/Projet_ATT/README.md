@@ -1,12 +1,13 @@
-# Bloc 4 : Analyse prédictive de données non-structurées par l'intelligence artificielle
-
-## Projet : AT&T spam detector
+# (Bloc 4) Projet : AT&T spam detector
 
 ## Problématique :
 AT&T recherche un moyen automatisé de détecter les spams pour protéger leurs utilisateurs. 
 
 ## Objectif :
 Construire un détecteur de spam, qui peut automatiquement signaler les spams en fonction uniquement du contenu du sms. 
+
+## Présentation du projet
+* Bloc4_ATT_Spam_Detector.pptx
 
 ## Implémentation
 * Spam_detect_1_base.ipynb
