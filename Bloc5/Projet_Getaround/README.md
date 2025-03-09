@@ -12,7 +12,7 @@ Getaround projette de :
 ## Présentation du projet :
 * Bloc5_Getaround.pptx
 
-## Implémentation
+## Implémentation :
 
 * get_around_delay_analysis.ipynb
 
