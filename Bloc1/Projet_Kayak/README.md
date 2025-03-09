@@ -1,5 +1,4 @@
-# Bloc 1 : Construction et alimentation d'une infrastructure de gestion de données
-## Projet : Kayak
+# (Bloc 1) Projet : Kayak
 
 ## Problématique :
 l’équipe Kayak a découvert que 70% de leurs utilisateurs qui planifient un voyage aimeraient avoir plus d’informations sur la destination ou ils vont 
@@ -10,6 +9,8 @@ Créer une application pour les utilisateurs Kayak de recommandation :
 * des meilleurs hôtels de ces destinations (au sens notation booking.com)
 
 ## Implémentation :
+
+# Bloc1_Kayak_pptx (Présentation du projet)
 
 * kayak_get_geoloc_and_weather.ipynb
 
