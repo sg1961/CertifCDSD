@@ -1,6 +1,4 @@
-# Bloc 2 : Analyse exploratoire, descriptive et inférentielle de données
-
-## Projet : Tinder
+# (Bloc 2) Projet : Tinder
 
 ## Problématique :
 * Tinder connaît une diminution du nombre de « match »
@@ -9,6 +7,9 @@
 
 ## Objectif :
 Utilisez l'ensemble de données collectées pour comprendre ce qui pousse les gens à s'intéresser les uns aux autres et à avoir un deuxième rendez-vous ensemble
+
+## Présentation du Projet
+* Bloc2_Tinder.pptx
 
 ## Implémentation
 * Tinder.ipynb
@@ -22,4 +23,3 @@ Production des restitutions d'analyses
 * SpeedDatingData.csv
 
 Données sources
-
