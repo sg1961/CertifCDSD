@@ -1,6 +1,4 @@
-# Bloc 3 : Analyse prédictive de données structurées par l'intelligence artificielle
-
-## Projet : Conversion rate challenge
+# (Bloc 3) Projet : Conversion rate challenge
 
 ## Problématique :
 * Comprendre et expliquer le comportement des utilisateurs qui visitent un site web
@@ -9,6 +7,9 @@
 ## Objectif :
 * Construire un modèle qui prédit si un utilisateur donné s'abonnera à la newsletter
 * Analyser les paramètres du modèle pour mettre en évidence les caractéristiques importantes pour expliquer le comportement des utilisateurs 
+
+## Présentation du projet :
+* Bloc3_Conversion_rate_challenge.pptx
 
 ## Implémentation :
 * Conversion_rate_challenge_eda.ipynb
