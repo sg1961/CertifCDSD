@@ -32,11 +32,13 @@ Différentes variantes de modèles testés
 
 * ./get_around_pricing_deploy
   
-Déploiement d'API de publication des propositions de prix de courses Uber 
+Déploiement d'API de publication des propositions de prix de courses Uber
+Lien : https://sg1961-get-around-api.hf.space
 
 * ./get_around_tdb_deploy
   
-Déploiement de "tableau de bord - streallit" de publication d'nalyses des courses Uber 
+Déploiement de "tableau de bord - streallit" de publication d'nalyses des courses Uber
+Lien :  https://sg1961-getaround.hf.space
 
 * get_around_delay_analysis.xls
   
