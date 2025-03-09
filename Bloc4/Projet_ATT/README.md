@@ -6,10 +6,10 @@ AT&T recherche un moyen automatisé de détecter les spams pour protéger leurs 
 ## Objectif :
 Construire un détecteur de spam, qui peut automatiquement signaler les spams en fonction uniquement du contenu du sms. 
 
-## Présentation du projet
+## Présentation du projet :
 * Bloc4_ATT_Spam_Detector.pptx
 
-## Implémentation
+## Implémentation :
 * Spam_detect_1_base.ipynb
 
 Exploration des données
