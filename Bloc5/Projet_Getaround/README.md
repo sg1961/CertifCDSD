@@ -1,6 +1,4 @@
-# Bloc 5 : Industrialisation d'un algorithme d'apprentissage automatique et automatisation des processus de décision
-
-## Projet : GetAround
+# (Bloc 5) Projet : GetAround
 
 ## Problématique :
 Getaround projette de :
@@ -10,6 +8,9 @@ Getaround projette de :
 ## Objectif :
 * Mise eu point et déploiement d’un tableau pour aider Gettaround à prendre les bonnes décisions  pour optimiser la mise la mise en œuvre de ce délai minimun (impacts, cible, calibrage, …)
 * Mise au point d’un modèle de prédiction et déploiement d’une API de proposition de prix de location.
+
+## Présentation du projet :
+* Bloc5_Getaround.pptx
 
 ## Implémentation
 
