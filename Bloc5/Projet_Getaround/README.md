@@ -10,7 +10,7 @@ Getaround projette de :
 * Mise au point d’un modèle de prédiction et déploiement d’une API de proposition de prix de location.
 
 ## Présentation du projet :
-* Bloc5_Getaround.pptx
+* Bloc5_Projet_Getaround-Presentation.pptx
 
 ## Implémentation :
 
