@@ -9,7 +9,7 @@
 Utilisez l'ensemble de données collectées pour comprendre ce qui pousse les gens à s'intéresser les uns aux autres et à avoir un deuxième rendez-vous ensemble
 
 ## Présentation du projet :
-* Bloc2_Tinder.pptx
+* Bloc2_Projet_Tinder-Presentation.pptx
 
 ## Implémentation :
 * Tinder.ipynb
