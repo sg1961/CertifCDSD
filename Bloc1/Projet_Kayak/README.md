@@ -10,7 +10,7 @@ Créer une application pour les utilisateurs Kayak de recommandation :
 
 ## Présentation du projet
 
-* Bloc1_Kayak.pptx
+* Bloc1_Projet_Kayak-Presentation.pptx
 
 ## Implémentation :
 
