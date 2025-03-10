@@ -10,7 +10,7 @@ Utiliser l'outil de visualisation de Databricks pour créer les visualisations
 
 ## Présentation du projet :
 
-* Bloc2_Steam.pptx
+* Bloc2_Projet_Steam-Presentation.pptx
 
 ## Implémentation :
 
@@ -26,7 +26,9 @@ Utiliser l'outil de visualisation de Databricks pour créer les visualisations
 
   Notebook et Restitutions consultables en "offline" au format html
 
-* lien "databricks" vers le notebook et les restitutions
+* Steam-DataBricks.url 
+
+lien "databricks" vers le notebook et les restitutions
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3979573961011170/4308457732503927/6143944938730323/latest.html
 
 
