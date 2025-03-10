@@ -22,7 +22,7 @@ Déploiement de modèle de détection de panneaux de limitation de vitesse sur u
 (approche 2 - fait maison) modules de construction du modèle :
 (detection de forme géométrisue + cnn de decision "panneau ou non panneau" + cnn de classification des panneaux
 
-* ./tdb_bench
+* ./perf_bench
 
 modules et ihm streamlit de bench des modèles
 
