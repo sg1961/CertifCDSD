@@ -28,5 +28,7 @@ Modèles : Logistic Regression, SVM, Decision Tree Classifier, Random Forest Cla
 Entrairement du meilleur modèle sur l'ensemble du dataset et export pour soumission au challenge
 (modele SVM, prédictions séparés par pays puis consolidation, Calibrage du meilleur seuil "proba" pour un meilleur f1-score)
 
-* conversion_data_train.csv : data labelisée pour entrainement
-* conversion_data_test.csv : data non labelisée pour sousmission des prédictions au challenge
+* ./data
+conversion_data_train.csv : data labelisée pour entrainement
+conversion_data_test.csv : data non labelisée pour sousmission des prédictions au challenge
+conversion_data_test_predictions_SeddikV02B.csv : Soumission finale avec le meilleur modèle
