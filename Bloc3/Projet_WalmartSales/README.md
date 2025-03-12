@@ -7,9 +7,6 @@
 ## Objectif :
 Construire un modèle d'apprentissage automatique capable d'estimer les ventes hebdomadaires avec la meilleure précision possible 
 
-## Présentation du projet :
-* Bloc3_Projet_Walmart_sales-Presentation.pptx
-
 ## Implémentation
 * Walmart_sales.ipynb
 
