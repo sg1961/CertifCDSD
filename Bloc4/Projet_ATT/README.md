@@ -23,6 +23,6 @@ Modèle 2a : Transfer Leraning - Modèle BERT figé
 
 Modèle 2b : Transfer Leraning - Modèle BERT non figé (ré-entrainé)
 
-* spam.csv
+* ./data/spam.csv
 
 Données sources
