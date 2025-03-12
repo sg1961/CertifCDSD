@@ -30,5 +30,7 @@ Entrairement du meilleur modèle sur l'ensemble du dataset et export pour soumis
 
 * ./data
 conversion_data_train.csv : data labelisée pour entrainement
+
 conversion_data_test.csv : data non labelisée pour sousmission des prédictions au challenge
+
 conversion_data_test_predictions_SeddikV02B.csv : Soumission finale avec le meilleur modèle
