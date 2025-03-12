@@ -17,6 +17,6 @@ Nettoyage et préparation des données
 
 Production des restitutions d'analyses
 
-* SpeedDatingData.csv
+* ./data/SpeedDatingData.csv
 
 Données sources
