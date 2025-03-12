@@ -7,9 +7,6 @@ L'équipe d'Uber aimerait avoir un moyen de recommandation de zones chaudes dans
 * Créer un modèle pour trouver des zones chaudes
 * Visualisez les résultats sur un tableau de bord
 
-## Présentation du projet :
-* Bloc3_Projet_UberPickup-Presentation.pptx
-
 ## Implémentation
 * UberPickups.ipynb
 
