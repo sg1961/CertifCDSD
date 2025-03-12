@@ -8,9 +8,6 @@
 * Construire un modèle qui prédit si un utilisateur donné s'abonnera à la newsletter
 * Analyser les paramètres du modèle pour mettre en évidence les caractéristiques importantes pour expliquer le comportement des utilisateurs 
 
-## Présentation du projet :
-* Bloc3_Projet_Conversion_rate_challenge-Presentation.pptx
-
 ## Implémentation :
 * Conversion_rate_challenge_eda.ipynb
 
