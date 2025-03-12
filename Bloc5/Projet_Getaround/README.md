@@ -37,10 +37,10 @@ Lien : https://sg1961-get-around-api.hf.space
 Déploiement de "tableau de bord - streallit" de publication d'nalyses des courses Uber
 Lien :  https://sg1961-getaround.hf.space
 
-* get_around_delay_analysis.xls
+* ./data/get_around_delay_analysis.xls
   
 Données sources - (courses Ubers)
 
-* get_around_pricing_project.csv
+* ./data/get_around_pricing_project.csv
   
 Données sources - (prix des courses Ubers)
