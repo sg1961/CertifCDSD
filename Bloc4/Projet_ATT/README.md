@@ -20,11 +20,11 @@ Elaboration de modèle de prédictions des ventes
 
 * Spam_detect_2a_BERTfige.ipynb
 
-Modèle 2a : Transfert Leraning - Modèle BERT figé
+Modèle 2a : Transfer Leraning - Modèle BERT figé
 
 * Spam_detect_2b_BERTtrain.ipynb
 
-Modèle 2b : Transfert Leraning - Modèle BERT non figé (ré-entrainé)
+Modèle 2b : Transfer Leraning - Modèle BERT non figé (ré-entrainé)
 
 * spam.csv
 
