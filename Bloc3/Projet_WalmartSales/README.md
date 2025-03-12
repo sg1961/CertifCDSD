@@ -18,6 +18,6 @@ Elaboration de modèle de prédictions des ventes
 base Line : Regression linéaire
 Modèles régularisés : Ridge et Lasso
 
-* Walmart_Store_sales.csv
+* ./data/Walmart_Store_sales.csv
 
 Données sources
