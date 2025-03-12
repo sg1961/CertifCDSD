@@ -30,6 +30,6 @@ Module d'enregistrement des données structurées (villes et hotels) en base de 
 
 Module de production des cartes des meilleurs destinations et des meilleurs hotels par destination
 
-* kayak_secret.py (non présent sur GitHub)
+* kayak_secret.py (les accées ne sont pas présents sur le fichier sur GitHub)
 
 Module contenant les informations pour acceder aux stockages AWS : S3 et DB Postgres
