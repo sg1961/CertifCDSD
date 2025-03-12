@@ -8,9 +8,6 @@ Déploiement de modèle de détection de panneaux de limitation de vitesse sur u
 * Mini robot roulant
 * Tableau de bord de voiture
 
-## Présentation :
-* Bloc6_Projet_TraficSigns-Presentation.pptx
-
 ## Implémentation :
 
 * ./modele_cnn_yolo
