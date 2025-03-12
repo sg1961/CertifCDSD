@@ -29,6 +29,7 @@ Entrairement du meilleur modèle sur l'ensemble du dataset et export pour soumis
 (modele SVM, prédictions séparés par pays puis consolidation, Calibrage du meilleur seuil "proba" pour un meilleur f1-score)
 
 * ./data
+
 conversion_data_train.csv : data labelisée pour entrainement
 
 conversion_data_test.csv : data non labelisée pour sousmission des prédictions au challenge
