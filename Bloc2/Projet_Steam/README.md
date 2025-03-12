@@ -8,10 +8,6 @@ Analyser le marché des jeux vidéo.
 Utiliser Databricks et PySpark pour mener une étude pour répondre à la problématique ci-dessus
 Utiliser l'outil de visualisation de Databricks pour créer les visualisations
 
-## Présentation du projet :
-
-* Bloc2_Projet_Steam-Presentation.pptx
-
 ## Implémentation :
 
 * Steam.ipynb (module exploitable sous Databricks)
