@@ -1,3 +1,23 @@
+# Module de pilotage du Robot avec 5 threads :
+# - navig_thread
+#   Pilotage des moteurs en fonction de :
+#   - des indications infrarouge de suivi de ligne sur la route
+#   - des panneaux de limitations détectés
+#
+# - capture_thread
+#   Détection des panneaux 
+#
+# - digits_thread
+#   Affichage des panneaux détéctés sur l'afficheur du robot
+# 
+# - ultras_thread
+#   Détection de distance d'objet devant le robot
+#
+# - http_thread
+#   Serveur http de diffusion des images vue par le robot
+#
+#
+#
 import threading
 import time
 import os
