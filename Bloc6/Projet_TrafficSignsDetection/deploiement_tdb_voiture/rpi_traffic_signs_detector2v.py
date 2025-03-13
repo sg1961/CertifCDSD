@@ -1,3 +1,15 @@
+# Module de pilotage du Robot avec 3 threads :
+#
+# - capture_thread
+#   Détection des panneaux 
+#
+# - digits_thread
+#   Affichage des panneaux détéctés sur l'afficheur du robot 
+#
+# - http_thread
+#   Serveur http de diffusion des images vue par le robot
+#
+#
 import threading
 import time
 import os
