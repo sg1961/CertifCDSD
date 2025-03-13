@@ -4,12 +4,12 @@
   * Projet : Kayak
     
   ### Bloc 2 : Analyse exploratoire, descriptive et inférentielle de données
-  * Projet : Tinder 
+  * Projet : Tinder (soutenance)
   * Projet : Steam
 
   ### Bloc 3 : Analyse prédictive de données structurées par l'intelligence artificielle
+  * Projet : Conversion Rate Challenge (soutenance)
   * Projet : Uber Pickup
-  * Projet : Conversion Rate Challenge
   * Projet : Walmart sales
 
   ### Bloc 4 : Analyse prédictive de données non-structurées par l'intelligence artificielle
@@ -20,5 +20,3 @@
 
   ### Bloc 6 : Direction de projets de gestion de données
   * Projet : Traffic signs detection
-
-
